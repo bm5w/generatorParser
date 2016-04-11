@@ -1,0 +1,1099 @@
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: null
+GEN_TYPE: Diesel
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: Nug
+GEN_TYPE: Nuclear
+GEN_TYPE: Nuclear
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: Hydro
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Diesel
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Nug
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: null
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Diesel
+GEN_TYPE: null
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Nug
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Nuclear
+GEN_TYPE: Nug
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Nuclear
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Diesel
+GEN_TYPE: Wind
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Nuclear
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Nug
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Wind
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combined Cycle CT
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Diesel
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combined Cycle CT
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: null
+GEN_TYPE: Diesel
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Wind
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Hydro
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Nug
+GEN_TYPE: null
+GEN_TYPE: Diesel
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Hydro
+GEN_TYPE: Nuclear
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Wind
+GEN_TYPE: Diesel
+GEN_TYPE: Nug
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Diesel
+GEN_TYPE: Hydro
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Nuclear
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Nug
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Hydro
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combined Cycle CT
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: null
+GEN_TYPE: Pressurized Water Reactor
+GEN_TYPE: Diesel
+GEN_TYPE: Combined Cycle CT
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Nug
+GEN_TYPE: Diesel
+GEN_TYPE: Diesel
+GEN_TYPE: Wind
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: null
+GEN_TYPE: Wind
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Hydro
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Diesel
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Diesel
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combined Cycle CT
+GEN_TYPE: Diesel
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Nuclear
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Diesel
+GEN_TYPE: null
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Diesel
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Nug
+GEN_TYPE: Diesel
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: null
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Nug
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Diesel
+GEN_TYPE: Diesel
+GEN_TYPE: null
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: null
+GEN_TYPE: Wind
+GEN_TYPE: null
+GEN_TYPE: Combined Cycle CT
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Hydro
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: Hydro
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Nug
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: Wind
+GEN_TYPE: Diesel
+GEN_TYPE: Nug
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Wind
+GEN_TYPE: Nug
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Nuclear
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Wind
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Nug
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Fuel Cell
+GEN_TYPE: Diesel
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Nug
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Nuclear
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: null
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Diesel
+GEN_TYPE: Diesel
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Wind
+GEN_TYPE: Wind
+GEN_TYPE: Nug
+GEN_TYPE: Wind
+GEN_TYPE: null
+GEN_TYPE: Nuclear
+GEN_TYPE: null
+GEN_TYPE: Nug
+GEN_TYPE: Wind
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Diesel
+GEN_TYPE: Wind
+GEN_TYPE: Diesel
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Combined Cycle CT
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: Combined Cycle CT
+GEN_TYPE: Nuclear
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Nuclear
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Diesel
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Hydro
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Nug
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Hydro
+GEN_TYPE: Hydro
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Nug
+GEN_TYPE: Diesel
+GEN_TYPE: Combined Cycle CT
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Diesel
+GEN_TYPE: Diesel
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Nug
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: Hydro
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Nuclear
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Hydro
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Nug
+GEN_TYPE: Nug
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Diesel
+GEN_TYPE: null
+GEN_TYPE: Nug
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Diesel
+GEN_TYPE: Nug
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Nuclear
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Nuclear
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: null
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Wind
+GEN_TYPE: Wind
+GEN_TYPE: null
+GEN_TYPE: Hydro
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Nug
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Nug
+GEN_TYPE: null
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Wind
+GEN_TYPE: Diesel
+GEN_TYPE: Nug
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Geothermal
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: Diesel
+GEN_TYPE: null
+GEN_TYPE: Hydro
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combined Cycle CT
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: Diesel
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Diesel
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Diesel
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Diesel
+GEN_TYPE: Diesel
+GEN_TYPE: Diesel
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Wind
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Nuclear
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Wind
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Diesel
+GEN_TYPE: Combined Cycle CT
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Wind
+GEN_TYPE: Nug
+GEN_TYPE: Nug
+GEN_TYPE: null
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: null
+GEN_TYPE: Diesel
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Nuclear
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Wind
+GEN_TYPE: Diesel
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Diesel
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Nug
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Nug
+GEN_TYPE: Diesel
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Nug
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Nuclear
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combined Cycle CT
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Diesel
+GEN_TYPE: Nug
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Diesel
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Diesel
+GEN_TYPE: Diesel
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Diesel
+GEN_TYPE: Diesel
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Diesel
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Nug
+GEN_TYPE: Diesel
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: null
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Nuclear
+GEN_TYPE: Diesel
+GEN_TYPE: Nug
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Nug
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Fuel Cell
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Pressurized Water Reactor
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combined Cycle CT
+GEN_TYPE: Nug
+GEN_TYPE: null
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Hydro
+GEN_TYPE: Nug
+GEN_TYPE: Combined Cycle CT
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Wind
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Wind
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Wind
+GEN_TYPE: Diesel
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Hydro
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Hydro
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Nuclear
+GEN_TYPE: Diesel
+GEN_TYPE: Diesel
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: Nug
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Nuclear
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combined Cycle CT
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Nug
+GEN_TYPE: null
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Hydro
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Diesel
+GEN_TYPE: null
+GEN_TYPE: Diesel
+GEN_TYPE: Diesel
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: Wind
+GEN_TYPE: Diesel
+GEN_TYPE: Wind
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: null
+GEN_TYPE: Diesel
+GEN_TYPE: null
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Wind
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Diesel
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: null
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: null
+GEN_TYPE: Nug
+GEN_TYPE: Diesel
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Nug
+GEN_TYPE: Wind
+GEN_TYPE: null
+GEN_TYPE: Nug
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Nug
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Diesel
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: null
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Hydro
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Diesel
+GEN_TYPE: Diesel
+GEN_TYPE: Nug
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Wind
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Wind
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: null
+GEN_TYPE: Diesel
+GEN_TYPE: Combined Cycle CT
+GEN_TYPE: Combined Cycle CT
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Diesel
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Nuclear
+GEN_TYPE: null
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combined Cycle CT
+GEN_TYPE: Wind
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: null
+GEN_TYPE: Combined Cycle CT
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Wind
+GEN_TYPE: Wind
+GEN_TYPE: Diesel
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Steam/Fossil
+GEN_TYPE: Diesel
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Wind
+GEN_TYPE: Nug
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Nug
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Diesel
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: Wind
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Diesel
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Diesel
+GEN_TYPE: null
+GEN_TYPE: Wind
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Diesel
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Pressurized Water Reactor
+GEN_TYPE: null
+GEN_TYPE: Hydro
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: null
+GEN_TYPE: Wind
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: null
+GEN_TYPE: Combined Cycle CT
+GEN_TYPE: Combustion Turbine
+GEN_TYPE: Hydro - Run of River
+GEN_TYPE: null
+GEN_TYPE: null
